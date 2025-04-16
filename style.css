@@ -1,0 +1,33 @@
+/* Create a well-structured HTML5 document.
+Use at least 5 different HTML elements.
+Ensure semantic correctness. */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #004aad;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin: 10px 5px;
+    background-color: #0057b7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #003f88;
+  }
+  
+  #dynamic-container {
+    margin-top: 20px;
+  }
+  
